@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="oneText">Player One</string>
+    <string name="twoText">Player Two</string>
+</resources>
